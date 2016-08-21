@@ -1,0 +1,9 @@
+public class VarTry
+{
+    public static void main(String[] argv)
+    {
+        int i;                    // declares integer variable named i
+        i = 9;                    // gives i the value 9
+        System.out.println(i);    // print the value of i to the screen
+    }
+}
